@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093102548950",
+    "project_id": "bkash-6b83a",
+    "storage_bucket": "bkash-6b83a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093102548950:android:aefa13550d995da52cd677",
+        "android_client_info": {
+          "package_name": "com.example.bkash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGvaD7b4bv701OztkpdmgvlG9HNSdJ5jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
